@@ -1,4 +1,4 @@
-# trackedOAR
+# TrackedOAR
 Arduino based Obstacle Avoidance Robot
 ## About ##
 Arduino based Obstacle Avoidance Robot on tracked wheels with ultrasonic sensor
